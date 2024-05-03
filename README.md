@@ -1,2 +1,2 @@
 # python
-beriberi
+biribiri
